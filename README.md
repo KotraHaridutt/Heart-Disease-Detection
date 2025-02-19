@@ -63,7 +63,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/KotraHaridutt/heart-disease-prediction.git
 cd heart-disease-prediction
 
 2️⃣ Open Jupyter Notebook or Google Colab and run all cells
